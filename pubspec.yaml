@@ -1,0 +1,47 @@
+name: bookly_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+
+environment:
+  sdk: ^3.10.7
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.4.1
+  cupertino_icons: ^1.0.8
+  dartz: ^0.10.1
+  dio: ^5.9.0
+  flutter_bloc: ^9.1.1
+  font_awesome_flutter: ^10.12.0
+  get_it: ^9.2.0
+  go_router: ^17.0.1
+  google_fonts: ^8.0.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  skeletonizer: ^2.1.2
+  url_launcher: ^6.3.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.6
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"  
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
