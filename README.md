@@ -12,6 +12,7 @@ Built with **MVVM architecture** and **Cubit (Bloc)** for state management, foll
 - 📖 View detailed information about each book
 - ❤️ Add and remove books from favorites
 - 💾 Save favorite books locally
+- ▶️ Quick preview of books or download them directly from Google Play Books
 - ⚡ Smooth and responsive UI
 
 ---
@@ -24,3 +25,13 @@ Built with **MVVM architecture** and **Cubit (Bloc)** for state management, foll
 - **Google Books API**
 - **REST APIs**
 - **Clean Architecture**
+
+---
+
+## 📸 App Screenshots
+
+| Splash | Loading | Home |
+|------|---------|--------|
+| ![](assets/screen_shots/1.jpg) | ![](assets/screen_shots/2.jpg) | ![](assets/screen_shots/3.jpg) |
+| Search | Details | Favorites |
+| ![](assets/screen_shots/4.jpg) | ![](assets/screen_shots/5.jpg) | ![](assets/screen_shots/6.jpg) |
